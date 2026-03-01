@@ -46,7 +46,7 @@ Used as blueprint for auto-provisioning VM instances.
 
 ### 3. Managed Instance Group
 Initial size: 1  
-Maximum size: 3  
+Maximum size: 5  
 
 ### 4. Auto Scaling Policy
 - Metric: CPU Utilization
@@ -93,3 +93,4 @@ During high CPU utilization, VM instances automatically scaled from 1 to 5.
 ## Author
 Sourabh Tyagi  
 M.Tech(DE) - IIT Jodhpur
+
