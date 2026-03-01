@@ -86,11 +86,10 @@ During high CPU utilization, VM instances automatically scaled from 1 to 5.
 - Elastic Scaling
 - On-demand Provisioning
 - Identity-based Security
-- Network Segmentation
-
 ---
 
 ## Author
 Sourabh Tyagi  
 M.Tech(DE) - IIT Jodhpur
+
 
